@@ -23,3 +23,7 @@ A heart-shaped LED matrix built around the STM32F103.
 ## Gallery
 
 ![](Images/topLayer.jpg)
+
+
+
+![](Images/bottomLayer.jpg)
