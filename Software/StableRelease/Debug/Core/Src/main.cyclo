@@ -1,0 +1,15 @@
+../Core/Src/main.c:74:13:Frame_SetPixel	4
+../Core/Src/main.c:90:13:Delay_us	2
+../Core/Src/main.c:99:13:Shift_Write	1
+../Core/Src/main.c:112:13:Button_Update	5
+../Core/Src/main.c:136:13:DisplayFrames	9
+../Core/Src/main.c:200:13:Starfall	4
+../Core/Src/main.c:261:16:IsHeartPixel	5
+../Core/Src/main.c:288:17:Random_Get	1
+../Core/Src/main.c:297:13:RandomComet	12
+../Core/Src/main.c:464:5:main	5
+../Core/Src/main.c:537:6:SystemClock_Config	3
+../Core/Src/main.c:574:13:MX_SPI1_Init	2
+../Core/Src/main.c:612:13:MX_TIM2_Init	4
+../Core/Src/main.c:657:13:MX_GPIO_Init	1
+../Core/Src/main.c:696:6:Error_Handler	1
